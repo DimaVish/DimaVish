@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Golang Backend cloud development
 - 🌱 I’m currently learning Golang backend development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Here is my Linkedin profiel : https://www.linkedin.com/in/dmitry-vyshnyvetskiy/
+- 📫 How to reach me Here is my Linkedin profile : https://www.linkedin.com/in/dmitry-vyshnyvetskiy/
 - 😄 Pronouns: Dima :)
 - ⚡ Fun fact: ...
 
